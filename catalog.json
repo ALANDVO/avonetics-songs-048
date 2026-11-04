@@ -1,0 +1,266 @@
+{
+  "schema": 1,
+  "repository": "alandvo/avonetics-songs-048",
+  "songs": [
+    {
+      "id": "song_20261103_161007_abe1",
+      "title": "porchlight & clover",
+      "language": "English",
+      "source": "s_20261103_160729_8df605.m4a",
+      "bytes": 2026706,
+      "localMtime": 1793722207.759749,
+      "file": "songs/fa66fa830d916593e561a86682fd26ce3856a373e2c40ab694015ce87ba46736.m4a",
+      "sha256": "fa66fa830d916593e561a86682fd26ce3856a373e2c40ab694015ce87ba46736"
+    },
+    {
+      "id": "song_20261103_162008_3103",
+      "title": "Paper Over the Glass",
+      "language": "English",
+      "source": "s_20261103_161738_ae6662.m4a",
+      "bytes": 2068229,
+      "localMtime": 1793722808.8698845,
+      "file": "songs/b79e3a4db9b034f6bfe2a4afa803b3a05ea29b222a76884a503630f238122d98.m4a",
+      "sha256": "b79e3a4db9b034f6bfe2a4afa803b3a05ea29b222a76884a503630f238122d98"
+    },
+    {
+      "id": "song_20261103_164009_ba53",
+      "title": "Velvet Daylight",
+      "language": "English",
+      "source": "s_20261103_163726_48264b.m4a",
+      "bytes": 1904006,
+      "localMtime": 1793724009.3469641,
+      "file": "songs/d27f494a643fa5fbb453ac167b18b3b8aafd3ad7b61f6efca14aecdd66a840c8.m4a",
+      "sha256": "d27f494a643fa5fbb453ac167b18b3b8aafd3ad7b61f6efca14aecdd66a840c8"
+    },
+    {
+      "id": "song_20261103_170306_0683",
+      "title": "Rhythm Is the Proof",
+      "language": "English",
+      "source": "s_20261103_165731_077272.m4a",
+      "bytes": 2208409,
+      "localMtime": 1793725386.2462676,
+      "file": "songs/f5e8e4342cdec0e8abe4ed68d2616580220a0389ecdf38047d0b4be13b21d3eb.m4a",
+      "sha256": "f5e8e4342cdec0e8abe4ed68d2616580220a0389ecdf38047d0b4be13b21d3eb"
+    },
+    {
+      "id": "song_20261103_171007_9879",
+      "title": "Velvet Rope Dynasty",
+      "language": "English",
+      "source": "s_20261103_170728_140ace.m4a",
+      "bytes": 2234428,
+      "localMtime": 1793725807.4754422,
+      "file": "songs/450dc5255e3250ae893db9b100786e30ac0d0ad91b77089f9b3a9fc6f3b97218.m4a",
+      "sha256": "450dc5255e3250ae893db9b100786e30ac0d0ad91b77089f9b3a9fc6f3b97218"
+    },
+    {
+      "id": "song_20261103_172008_a226",
+      "title": "Velvet Alibi",
+      "language": "English",
+      "source": "s_20261103_171730_f50847.m4a",
+      "bytes": 1858746,
+      "localMtime": 1793726408.8095574,
+      "file": "songs/17ee1573b84c03fb961c15b0efd82b156c546f8f4eaae0f4222107b33fc660c2.m4a",
+      "sha256": "17ee1573b84c03fb961c15b0efd82b156c546f8f4eaae0f4222107b33fc660c2"
+    },
+    {
+      "id": "song_20261103_173011_4196",
+      "title": "Velvet Composure",
+      "language": "English",
+      "source": "s_20261103_172734_481892.m4a",
+      "bytes": 2294355,
+      "localMtime": 1793727011.4639986,
+      "file": "songs/6862e5b1c3287c2ec96c7f14d0eed9850d31d938060c6febe2165a9a5e46c3f9.m4a",
+      "sha256": "6862e5b1c3287c2ec96c7f14d0eed9850d31d938060c6febe2165a9a5e46c3f9"
+    },
+    {
+      "id": "song_20261103_174510_f80b",
+      "title": "Borrowed Light",
+      "language": "English",
+      "source": "s_20261103_173724_70522e.m4a",
+      "bytes": 2071138,
+      "localMtime": 1793727910.3825314,
+      "file": "songs/8fb069d0595bebb241e200cca49696a4e8dba90f3d19d14a0c0ff61e467cfc10.m4a",
+      "sha256": "8fb069d0595bebb241e200cca49696a4e8dba90f3d19d14a0c0ff61e467cfc10"
+    },
+    {
+      "id": "song_20261103_175008_4f38",
+      "title": "Accidental Altar",
+      "language": "English",
+      "source": "s_20261103_174731_e157e9.m4a",
+      "bytes": 1956853,
+      "localMtime": 1793728208.2766104,
+      "file": "songs/6eab6db939e5319fe427109155f2c7e055602b0037e72634cf58185c44d6e538.m4a",
+      "sha256": "6eab6db939e5319fe427109155f2c7e055602b0037e72634cf58185c44d6e538"
+    },
+    {
+      "id": "song_20261103_180028_b788",
+      "title": "Velvet & Violence",
+      "language": "English",
+      "source": "s_20261103_175729_d4f380.m4a",
+      "bytes": 2192118,
+      "localMtime": 1793728827.995603,
+      "file": "songs/a5232ab3c4df0647ae721ec20858a5bf25618d8ce88f23fc6f45d32ae7f92b11.m4a",
+      "sha256": "a5232ab3c4df0647ae721ec20858a5bf25618d8ce88f23fc6f45d32ae7f92b11"
+    },
+    {
+      "id": "song_20261103_184008_81f1",
+      "title": "Pedestal of Glass",
+      "language": "English",
+      "source": "s_20261103_183723_84027f.m4a",
+      "bytes": 2165773,
+      "localMtime": 1793731208.33273,
+      "file": "songs/8dd3bf58f18e591ab2a638746dbd7f0fc957d0c18ca086a28e728a3d502a1e2f.m4a",
+      "sha256": "8dd3bf58f18e591ab2a638746dbd7f0fc957d0c18ca086a28e728a3d502a1e2f"
+    },
+    {
+      "id": "song_20261103_185007_fbcb",
+      "title": "Velvet Under Glass",
+      "language": "English",
+      "source": "s_20261103_184732_9ac479.m4a",
+      "bytes": 2083702,
+      "localMtime": 1793731807.3396742,
+      "file": "songs/5eb99147c38c232a74d9f09946c951e64afca7f538c94373cdd921c09fbec81b.m4a",
+      "sha256": "5eb99147c38c232a74d9f09946c951e64afca7f538c94373cdd921c09fbec81b"
+    },
+    {
+      "id": "song_20261103_191007_3884",
+      "title": "Too Bright to Hold",
+      "language": "English",
+      "source": "s_20261103_190732_61f6f0.m4a",
+      "bytes": 1951396,
+      "localMtime": 1793733007.326564,
+      "file": "songs/652f89489bec7536f0444b271a0674b989331a8fa889e6eab75748640ea77eb7.m4a",
+      "sha256": "652f89489bec7536f0444b271a0674b989331a8fa889e6eab75748640ea77eb7"
+    },
+    {
+      "id": "song_20261103_192011_580c",
+      "title": "West of the Neon",
+      "language": "English",
+      "source": "s_20261103_191732_0431f5.m4a",
+      "bytes": 1752415,
+      "localMtime": 1793733611.1043434,
+      "file": "songs/47a151730b997ec631e37c268fcbd2383021128d35c92242fc5bc00209cbdc98.m4a",
+      "sha256": "47a151730b997ec631e37c268fcbd2383021128d35c92242fc5bc00209cbdc98"
+    },
+    {
+      "id": "song_20261103_193012_a76b",
+      "title": "Read the Last Page First",
+      "language": "English",
+      "source": "s_20261103_192735_2ba9b6.m4a",
+      "bytes": 2114118,
+      "localMtime": 1793734212.2950947,
+      "file": "songs/9687aa9d01b20a8f533158faf3729493746aadd2a360cfce7392ec49081dafe1.m4a",
+      "sha256": "9687aa9d01b20a8f533158faf3729493746aadd2a360cfce7392ec49081dafe1"
+    },
+    {
+      "id": "song_20261103_201508_ecbe",
+      "title": "Solid Ground",
+      "language": "English",
+      "source": "s_20261103_200818_6ef957.m4a",
+      "bytes": 1926611,
+      "localMtime": 1793736908.2579575,
+      "file": "songs/4b6bd263e0bb2f4e9b2a888aed11d436efd41555a605bbd0409a4934ebf24c26.m4a",
+      "sha256": "4b6bd263e0bb2f4e9b2a888aed11d436efd41555a605bbd0409a4934ebf24c26"
+    },
+    {
+      "id": "song_20261103_203013_c401",
+      "title": "Nightlight",
+      "language": "English",
+      "source": "s_20261103_202746_28445d.m4a",
+      "bytes": 1981190,
+      "localMtime": 1793737813.5376687,
+      "file": "songs/b1fea392058cc88a3740e968ae47990f511bde6daaa50bffd93c3864b0f18390.m4a",
+      "sha256": "b1fea392058cc88a3740e968ae47990f511bde6daaa50bffd93c3864b0f18390"
+    },
+    {
+      "id": "song_20261103_210306_91ef",
+      "title": "Rich Enough to Lose Me",
+      "language": "English",
+      "source": "s_20261103_205741_bc03ff.m4a",
+      "bytes": 2124857,
+      "localMtime": 1793739786.406372,
+      "file": "songs/6fd2ee959db8b20262cd65a1ebbb685d1a895c6a7c5273d8d594f6e77c53d6ef.m4a",
+      "sha256": "6fd2ee959db8b20262cd65a1ebbb685d1a895c6a7c5273d8d594f6e77c53d6ef"
+    },
+    {
+      "id": "song_20261103_211008_abae",
+      "title": "Unrehearsed",
+      "language": "English",
+      "source": "s_20261103_210728_7b84c7.m4a",
+      "bytes": 2144015,
+      "localMtime": 1793740208.5579872,
+      "file": "songs/c4984ccc1510e54cb501059af42e16b9ccbc402b6c042bbff232baa1ec711c66.m4a",
+      "sha256": "c4984ccc1510e54cb501059af42e16b9ccbc402b6c042bbff232baa1ec711c66"
+    },
+    {
+      "id": "song_20261103_212009_2a1d",
+      "title": "Camera Shy",
+      "language": "English",
+      "source": "s_20261103_211738_ea4f5b.m4a",
+      "bytes": 2170046,
+      "localMtime": 1793740809.8106182,
+      "file": "songs/c462b7e290c66fa80afe7153b07e336af0245e9c73bfc4ce64327b14610e3b4f.m4a",
+      "sha256": "c462b7e290c66fa80afe7153b07e336af0245e9c73bfc4ce64327b14610e3b4f"
+    },
+    {
+      "id": "song_20261103_214009_62e4",
+      "title": "Halfway Unpacked",
+      "language": "English",
+      "source": "s_20261103_213735_2b57c6.m4a",
+      "bytes": 2000988,
+      "localMtime": 1793742009.476602,
+      "file": "songs/021a4b2b5d9f10e4dc8502e4cab508a1f7b35e1e36a3d13a75ef4a22bab2cc1d.m4a",
+      "sha256": "021a4b2b5d9f10e4dc8502e4cab508a1f7b35e1e36a3d13a75ef4a22bab2cc1d"
+    },
+    {
+      "id": "song_20261103_220029_aab8",
+      "title": "Neon Riviera",
+      "language": "English",
+      "source": "s_20261103_215735_766db7.m4a",
+      "bytes": 2097808,
+      "localMtime": 1793743229.2309923,
+      "file": "songs/2fc24c5d2432ea54766c8ee221a424a9126158e33886e2a233985ac8831c9cda.m4a",
+      "sha256": "2fc24c5d2432ea54766c8ee221a424a9126158e33886e2a233985ac8831c9cda"
+    },
+    {
+      "id": "song_20261103_221509_3f4f",
+      "title": "Stop the Watch",
+      "language": "English",
+      "source": "s_20261103_220750_3baf5e.m4a",
+      "bytes": 2140006,
+      "localMtime": 1793744109.3463452,
+      "file": "songs/06442c00a0f1a8118dc70307d7e24ab4652fcafb34e8941f0ca084b16b8259ab.m4a",
+      "sha256": "06442c00a0f1a8118dc70307d7e24ab4652fcafb34e8941f0ca084b16b8259ab"
+    },
+    {
+      "id": "song_20261103_224606_5e6e",
+      "title": "Velvet on a Paper Lease",
+      "language": "English",
+      "source": "s_20261103_223747_9d9cbe.m4a",
+      "bytes": 2004986,
+      "localMtime": 1793745965.9886067,
+      "file": "songs/bf18ef73cbd69bfe7a26120f24ee43323d582304d387605737a79f7c1c4cb30d.m4a",
+      "sha256": "bf18ef73cbd69bfe7a26120f24ee43323d582304d387605737a79f7c1c4cb30d"
+    },
+    {
+      "id": "song_20261103_225008_1ef8",
+      "title": "No Auditions Tonight",
+      "language": "English",
+      "source": "s_20261103_224742_cecddf.m4a",
+      "bytes": 2016180,
+      "localMtime": 1793746208.7067535,
+      "file": "songs/c771e6bf896f67abb2a6b6d9e23eeef43b76ab49e22dd75fd8220fe7d217be88.m4a",
+      "sha256": "c771e6bf896f67abb2a6b6d9e23eeef43b76ab49e22dd75fd8220fe7d217be88"
+    },
+    {
+      "id": "song_20261103_232012_5662",
+      "title": "Red Light in the Mirror",
+      "language": "English",
+      "source": "s_20261103_231732_befe34.m4a",
+      "bytes": 2143405,
+      "localMtime": 1793748012.7114012,
+      "file": "songs/98a890306abef0b377302b4201fbc69b69c0f43aedc8e90949cfa57f8f6e35d0.m4a",
+      "sha256": "98a890306abef0b377302b4201fbc69b69c0f43aedc8e90949cfa57f8f6e35d0"
+    }
+  ]
+}
